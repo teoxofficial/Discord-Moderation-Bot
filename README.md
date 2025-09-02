@@ -54,4 +54,4 @@ Gelişmiş ve **slash komutlu** Discord moderasyon botu. Node.js ve Discord.js v
 
 ## ⚡ Kurulum
 
-### 1️⃣ Depoyu klonlayın veya ZIP’i indirin
+### 1️⃣ ZIP’i indirin
